@@ -65,5 +65,6 @@ int main ()
 void printme(){
     printf("Github 4/7 change from member 1");
     printf("github 4/7 change from member2");
+    printf("Github 5/7 fixing a bug");
 }
 
