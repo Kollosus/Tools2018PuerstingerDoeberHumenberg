@@ -1,4 +1,6 @@
-#include <stdio.h>
+﻿#include <stdio.h>
+
+void printme();
 
 int main ()
 {
@@ -57,3 +59,5 @@ int main ()
     printf("\n");
     return 0;
 }
+
+void printme(){}
