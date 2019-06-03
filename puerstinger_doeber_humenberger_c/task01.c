@@ -1,4 +1,4 @@
-﻿#include <stdio.h>
+#include <stdio.h>
 
 void printme();
 
@@ -62,4 +62,6 @@ int main ()
     return 0;
 }
 
-void printme(){}
+void printme(){
+    printf("Github 4/7 change from member 1");
+}
