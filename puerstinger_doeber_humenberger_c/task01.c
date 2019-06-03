@@ -7,6 +7,8 @@ int main ()
     printf("-------------------------------------------\n");
     printf("            Firma Rein und Fein!\n");
     printf("-------------------------------------------\n");
+    
+    printf("Test Github 3/7");
 
     int boden;
     printf("Bitte die Gesamtflaeche (Quadratmeter) des zu reinigenden Boden eingeben:");
